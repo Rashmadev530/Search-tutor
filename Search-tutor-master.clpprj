@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\Search-tutor-master\Search-tutor-master.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/Search-tutor-master]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/Search-tutor-master]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\Search-tutor-master\blog.php"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\index.php"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\registerpage.php"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\includes\conection.php"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\includes\header.php"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\includes\footer.php"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\signup_tutor.php"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\Style_for_project\style_for_signup.css"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\signup_student.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock>
+  <todofile name="C:\xampp\htdocs\Search-tutor-master\Style_for_project\bootstrap-4.5.0-dist\js\bootstrap.bundle.js">
+   <todo name="TODO: Remove in v5" pos="5;198"/>
+   <todo name="todo (fat): these should probably be refactored out of modal.js" pos="5;5094"/>
+   <todo name="TODO (fat): remove sketch reliance on jQuery position/offset" pos="13;6375"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Search-tutor-master\Style_for_project\bootstrap-4.5.0-dist\js\bootstrap.js">
+   <todo name="TODO: Remove in v5" pos="5;199"/>
+   <todo name="todo (fat): these should probably be refactored out of modal.js" pos="5;2481"/>
+   <todo name="TODO (fat): remove sketch reliance on jQuery position/offset" pos="13;3762"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Search-tutor-master\js\bootstrap.bundle.js">
+   <todo name="TODO: Remove in v5" pos="5;179"/>
+   <todo name="todo (fat): these should probably be refactored out of modal.js" pos="5;5011"/>
+   <todo name="TODO (fat): remove sketch reliance on jQuery position/offset" pos="13;6317"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Search-tutor-master\js\bootstrap.js">
+   <todo name="TODO: Remove in v5" pos="5;180"/>
+   <todo name="todo (fat): these should probably be refactored out of modal.js" pos="5;2433"/>
+   <todo name="TODO (fat): remove sketch reliance on jQuery position/offset" pos="13;3739"/>
+  </todofile>
+  <todofile name="C:\xampp\htdocs\Search-tutor-master\js\carousel.js">
+   <todo name="TODO: Should be computed from number of min width items in stage" pos="5;328"/>
+  </todofile>
+ </todoblock>
+ <dbgurls/>
+ <filescache>
+  <file name="C:\xampp\htdocs\Search-tutor-master\Style_for_project\bootstrap-4.5.0-dist\js\bootstrap.min.js" crc="1595884230373"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\Style_for_project\bootstrap-4.5.0-dist\js\bootstrap.js" crc="1595951160920"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\Style_for_project\bootstrap-4.5.0-dist\js\bootstrap.bundle.min.js" crc="1595951160866"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\Style_for_project\bootstrap-4.5.0-dist\js\bootstrap.bundle.js" crc="1595951160774"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\Style_for_project\bootstrap-4.5.0-dist\css\bootstrap.min.css" crc="1595884229943"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\Style_for_project\style_for_signup.css" crc="1599583125366"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\js\fonticon.js" crc="1599570707566"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\js\dataAPI.js" crc="1599570707532"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\js\carousel.js" crc="1599570707511"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\js\bootstrap.modal.js" crc="1599570707480"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\js\bootstrap.min.js" crc="1599570707423"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\js\bootstrap.js" crc="1599570707373"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\js\bootstrap.bundle.min.js" crc="1599570707317"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\js\bootstrap.bundle.js" crc="1599570707259"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\js\animate.js" crc="1599570707230"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\includes\header.php" crc="1599572416928"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\includes\footer.php" crc="1599574143780"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\includes\conection.php" crc="1599570707112"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\v4-shims.scss" crc="1595437585650"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\solid.scss" crc="1595437585599"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\regular.scss" crc="1595437585557"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\fontawesome.scss" crc="1595437585517"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\brands.scss" crc="1595437585492"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_variables.scss" crc="1595437585445"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_stacked.scss" crc="1595437585414"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_shims.scss" crc="1595437585345"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_screen-reader.scss" crc="1595437585315"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_rotated-flipped.scss" crc="1595437585277"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_mixins.scss" crc="1595437585189"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_list.scss" crc="1595437585151"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_larger.scss" crc="1595437585099"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_icons.scss" crc="1595437585077"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_fixed-width.scss" crc="1595437585010"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_core.scss" crc="1595437584982"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_bordered-pulled.scss" crc="1595437584900"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\scss\_animated.scss" crc="1595437584823"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\metadata\sponsors.yml" crc="1595437584698"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\metadata\shims.yml" crc="1595437584617"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\metadata\shims.json" crc="1595437584554"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\metadata\icons.yml" crc="1595437584501"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\metadata\icons.json" crc="1595437584449"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\metadata\categories.yml" crc="1595437584395"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\v4-shims.less" crc="1595437584337"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\solid.less" crc="1595437584235"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\regular.less" crc="1595437584294"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\fontawesome.less" crc="1595437584198"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\brands.less" crc="1595437584162"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_variables.less" crc="1595437584112"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_stacked.less" crc="1595437584087"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_shims.less" crc="1595437584031"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_screen-reader.less" crc="1595437583952"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_rotated-flipped.less" crc="1595437583883"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_mixins.less" crc="1595437583814"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_list.less" crc="1595437583763"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_larger.less" crc="1595437583695"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_icons.less" crc="1595437583620"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_fixed-width.less" crc="1595437583585"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_core.less" crc="1595437583547"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_bordered-pulled.less" crc="1595437583466"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\less\_animated.less" crc="1595437583389"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\v4-shims.min.js" crc="1595437582388"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\v4-shims.js" crc="1595437582312"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\solid.min.js" crc="1595437582287"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\solid.js" crc="1595437582204"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\regular.min.js" crc="1595437582122"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\regular.js" crc="1595437582090"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\fontawesome.min.js" crc="1595437581977"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\fontawesome.js" crc="1595437581877"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\conflict-detection.min.js" crc="1595437581792"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\conflict-detection.js" crc="1595437581760"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\brands.min.js" crc="1595437581655"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\brands.js" crc="1595437581460"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\all.min.js" crc="1595437581393"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\js\all.js" crc="1595437581532"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\v4-shims.min.css" crc="1595437583276"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\v4-shims.css" crc="1595437583244"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\svg-with-js.min.css" crc="1595437583163"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\svg-with-js.css" crc="1595437583127"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\solid.min.css" crc="1595437583059"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\solid.css" crc="1595437582966"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\regular.min.css" crc="1595437582923"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\regular.css" crc="1595437582883"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\fontawesome.min.css" crc="1595437582853"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\fontawesome.css" crc="1595437582793"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\brands.min.css" crc="1595437582760"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\brands.css" crc="1595437582670"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\all.min.css" crc="1595437582584"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\css\all.css" crc="1595437582513"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\fontawesome-free-5.12.0-web\LICENSE.txt" crc="1595437581249"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\signup_tutor.php" crc="1599584782101"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\signup_student.php" crc="1599585015330"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\registerpage.php" crc="1599585065062"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\index.php" crc="1599572888777"/>
+  <file name="C:\xampp\htdocs\Search-tutor-master\blog.php" crc="1599572448154"/>
+ </filescache>
+</project>

@@ -1,0 +1,16 @@
+header{
+	background-color: #fffae2;
+}
+header ul li a{
+	color: #46aa34;
+}
+header ul li a:hover{
+	color:#aa159e;
+}
+
+.footer{
+	margin-top: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: #c7ebdb;
+}
